@@ -20,6 +20,5 @@ class CalculatorFrame extends JFrame {
 		setTitle("Calculator");
 		CalculatorPanel panel = new CalculatorPanel();
 		add(panel);
-		pack();
-	}
-ееекеккееекннн
+		pack()
+		hi how are u
