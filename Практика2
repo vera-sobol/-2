@@ -22,4 +22,4 @@ class CalculatorFrame extends JFrame {
 		add(panel);
 		pack();
 	}
-ееекеккееекннн
+
